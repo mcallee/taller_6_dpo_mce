@@ -1,0 +1,4 @@
+corral $14000
+Valor neto total: 14000.0
+IVA(19%): 2660.0
+Total (neto + IVA): 16660.0
